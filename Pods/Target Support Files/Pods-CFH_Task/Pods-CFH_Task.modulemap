@@ -1,0 +1,6 @@
+framework module Pods_CFH_Task {
+  umbrella header "Pods-CFH_Task-umbrella.h"
+
+  export *
+  module * { export * }
+}

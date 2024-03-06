@@ -1,0 +1,66 @@
+PODS:
+  - GoogleMaps (8.3.1):
+    - GoogleMaps/Maps (= 8.3.1)
+  - GoogleMaps/Base (8.3.1)
+  - GoogleMaps/Maps (8.3.1):
+    - GoogleMaps/Base
+  - JVFloatLabeledTextField (1.2.2)
+  - Kingfisher (7.10.1)
+  - Realm (10.45.2):
+    - Realm/Headers (= 10.45.2)
+  - Realm/Headers (10.45.2)
+  - RealmSwift (10.45.2):
+    - Realm (= 10.45.2)
+  - RPCircularProgress (0.5.0)
+  - RxCocoa (6.6.0):
+    - RxRelay (= 6.6.0)
+    - RxSwift (= 6.6.0)
+  - RxRelay (6.6.0):
+    - RxSwift (= 6.6.0)
+  - RxSwift (6.6.0)
+  - SideMenu (6.5.0)
+  - SwiftMessages (9.0.9):
+    - SwiftMessages/App (= 9.0.9)
+  - SwiftMessages/App (9.0.9)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - JVFloatLabeledTextField
+  - Kingfisher
+  - RealmSwift (~> 10)
+  - RPCircularProgress
+  - RxCocoa
+  - RxSwift
+  - SideMenu
+  - SwiftMessages
+
+SPEC REPOS:
+  trunk:
+    - GoogleMaps
+    - JVFloatLabeledTextField
+    - Kingfisher
+    - Realm
+    - RealmSwift
+    - RPCircularProgress
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SideMenu
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  GoogleMaps: b47b67bd63d708477d6ff457da2d695c0d8ceb5f
+  JVFloatLabeledTextField: df48598472ee015701d509f43e59492a0d4ca208
+  Kingfisher: bc5abe80a8e0144537ef1dd5a0b2621b04f7f439
+  Realm: bc4fc31783a0b3e355edca05f167f6a49c544dc2
+  RealmSwift: 234003b5fdb187c4b439d478662636d62a1f9de0
+  RPCircularProgress: 4499d4a1453dfbd3fe5bd8c6f344fd51cff3ad00
+  RxCocoa: 44a80de90e25b739b5aeaae3c8c371a32e3343cc
+  RxRelay: 45eaa5db8ee4fb50e5ebd57deec0159e97fa51e6
+  RxSwift: a4b44f7d24599f674deebd1818eab82e58410632
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+  SwiftMessages: 1a23aef303fa7bb26ad802880746cf8358e378fe
+
+PODFILE CHECKSUM: 5705aa62ee0694ca84ae6ef279e0b91bdd882107
+
+COCOAPODS: 1.13.0
